@@ -1,0 +1,2 @@
+This is written using with statement.
+Appending new line.
