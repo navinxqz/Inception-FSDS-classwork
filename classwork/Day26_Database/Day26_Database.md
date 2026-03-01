@@ -1,0 +1,3 @@
+**SQL:** These databases are like spreadsheets. Before we define a strict schema (a blueprint). Every row in a table must have the same columnns. This is ideal for structured data where relationships are well-defined (e.g., foreign keys, banking systems).
+
+**NoSQL:** These databases are more like folders full of different types of documents. They use a dynamic schema, meaning we can add data without a predefined structure. This is great for unstructured or semi-structured data (e.g., social media posts, user-generated content).
