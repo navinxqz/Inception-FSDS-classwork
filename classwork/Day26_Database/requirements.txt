@@ -1,4 +1,12 @@
+# for mongodb connection
 pymongo
 pandas
 numpy
 ipykernel
+
+# for API connection
+Flask
+
+#others
+pyarrow
+openpyxl
